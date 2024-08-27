@@ -41,6 +41,7 @@
         <div class="panel">
             <div class="panel-top">
                 <b style="float: left" class="text-green">Daftar Sub Kriteria</b>
+                <a  class="btn btn-green" id="btn-dropdown" target="_blank" href="./cetakkriteria.php"><i class="fa fa-print"></i> Cetak Pdf</a>
                 <div style="float:right;width: 250px;">
                     <select class="form-custom" name="pilih" id="pilih">
                         <option value="">Semua Kriteria</option>;

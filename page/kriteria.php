@@ -42,7 +42,6 @@
         <div class="panel">
             <div class="panel-top">
                 <b class="text-green">Daftar Kriteria</b>
-                <a  class="btn btn-green" id="btn-dropdown" target="_blank" href="./cetakkriteria.php"><i class="fa fa-print"></i> Cetak Pdf</a>
             </div>
             <div class="panel-middle">
                 <div class="table-responsive">
